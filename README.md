@@ -1,3 +1,7 @@
+Forked from upstream to set transition of photos to 100ms, instead of waiting 500ms before browsing
+
+---
+
 # @thumbsup/theme-flow
 
 [![NPM](https://img.shields.io/npm/v/@thumbsup/theme-flow.svg?style=flat)](https://www.npmjs.com/package/@thumbsup/theme-flow)
